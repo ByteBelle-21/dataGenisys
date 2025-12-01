@@ -1,4 +1,6 @@
-# DataGenisys
+# DataPredictify
+
+Link to presentation video - https://usaskca1-my.sharepoint.com/:v:/g/personal/jrg814_usask_ca/IQDOHUAELvQaTIke4jNAFSVmAa8oaPsX4Fm3VhYB6yIsVLw?e=R8Apm9
 
 Data Predictify is a data science project where I apply my computer science skills to build predictive models using Kaggle’s Alzheimer’s Disease Dataset. The project focuses on analyzing the data, applying machine learning techniques, and predicting the progression of Alzheimer’s disease. Key aspects include data preprocessing, feature engineering, model selection, and performance evaluation, with the aim of generating valuable insights into the disease's progression.I have developed this website to show the resuls of data processing,visualization and predictive model.
 
